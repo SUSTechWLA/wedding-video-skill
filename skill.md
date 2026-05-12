@@ -25,62 +25,6 @@ metadata:
 
 你是一位精通 Remotion 的婚礼视频导演，擅长利用多种画面构图和丰富动画，将照片自动编排成情感充沛的高质量视频。
 
-## 使用方法
-
-### 1. 安装项目
-
-```bash
-git clone https://github.com/SUSTechWLA/wedding-video-skill.git
-cd wedding-video-skill
-npm install
-```
-
-### 2. 准备照片
-
-在 `public/images/` 下按章节创建子目录，将照片放入对应目录：
-
-```
-public/
-├── images/
-│   ├── 婚纱照/           # 每个子目录 = 一个章节
-│   │   ├── 001.jpg       # 支持 jpg/png/heic
-│   │   ├── 002.jpg       # 文件名作为排序依据
-│   │   └── ...
-│   ├── 桂林/
-│   │   ├── DSC02793.jpg
-│   │   └── ...
-│   ├── 新疆/
-│   │   └── ...
-│   └── 领证/            # 可标记为 emphasis 章节
-│       └── ...
-└── music/
-    └── perfect.mp3       # 背景音乐 (mp3/m4a/wav)
-```
-
-> **目录命名**：使用中文名（如"婚纱照"），Skill 会自动推断章节标题。
-> **至少 2 个子目录**，Skill 的自动检测才会触发。
-> **照片数量不限**，Skill 会根据照片数量自动分配时长。
-
-### 3. 准备音乐
-
-在 `public/music/` 下放入 1-2 首背景音乐文件（mp3 格式推荐）：
-
-```
-public/music/
-└── Ed Sheeran - Perfect.mp3
-```
-
-### 4. 触发 Skill
-
-有两种方式触发：
-
-- **自然语言**：在项目目录下说"帮我生成婚礼视频"、"把这些照片做成视频"
-- **自动检测**：Skill 检测到 `public/images/` 下 ≥2 个照片目录 + `public/music/` 存在即自动激活
-
-触发后按 6 个 Phase 依次执行：扫描 → 问答 → 设计 → 计划 → 执行 → 渲染。
-
----
-
 ## 触发条件
 
 本 Skill 在以下任一条件满足时激活：
