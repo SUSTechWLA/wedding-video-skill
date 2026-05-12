@@ -1,0 +1,576 @@
+{
+  "music": "music/Ed Sheeran - Perfect.mp3",
+  "duration": 218,
+  "fps": 30,
+  "categories": [
+    {
+      "name": "graduation",
+      "title": "学生时代·毕业季",
+      "photos": [
+        {
+          "path": "images/photos/graduation/001.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/002.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/003.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/004.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/005.jpg",
+          "width": 1560,
+          "height": 2340
+        },
+        {
+          "path": "images/photos/graduation/006.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/007.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/008.jpg",
+          "width": 1560,
+          "height": 2340
+        },
+        {
+          "path": "images/photos/graduation/009.jpg",
+          "width": 1560,
+          "height": 2340
+        },
+        {
+          "path": "images/photos/graduation/010.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/011.jpg",
+          "width": 1560,
+          "height": 2340
+        },
+        {
+          "path": "images/photos/graduation/012.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/013.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/014.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/015.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/016.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/017.jpg",
+          "width": 2340,
+          "height": 1560
+        },
+        {
+          "path": "images/photos/graduation/018.jpg",
+          "width": 2340,
+          "height": 1560
+        }
+      ],
+      "emphasis": false
+    },
+    {
+      "name": "xinjiang",
+      "title": "陪你去远方·新疆",
+      "photos": [
+        {
+          "path": "images/photos/xinjiang/001.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "images/photos/xinjiang/002.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "images/photos/xinjiang/003.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "images/photos/xinjiang/004.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "images/photos/xinjiang/005.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "images/photos/xinjiang/006.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "images/photos/xinjiang/007.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "images/photos/xinjiang/008.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "images/photos/xinjiang/009.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "images/photos/xinjiang/010.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "images/photos/xinjiang/011.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "emphasis": false
+    },
+    {
+      "name": "guilin",
+      "title": "山水之间·桂林",
+      "photos": [
+        {
+          "path": "images/photos/guilin/001.jpg",
+          "width": 6224,
+          "height": 4672
+        },
+        {
+          "path": "images/photos/guilin/002.jpg",
+          "width": 6224,
+          "height": 4672
+        },
+        {
+          "path": "images/photos/guilin/003.jpg",
+          "width": 6224,
+          "height": 4672
+        },
+        {
+          "path": "images/photos/guilin/004.jpg",
+          "width": 6224,
+          "height": 4672
+        },
+        {
+          "path": "images/photos/guilin/005.jpg",
+          "width": 6224,
+          "height": 4672
+        },
+        {
+          "path": "images/photos/guilin/006.jpg",
+          "width": 6224,
+          "height": 4672
+        }
+      ],
+      "emphasis": false
+    },
+    {
+      "name": "xishuangbanna",
+      "title": "雨林秘境·西双版纳",
+      "photos": [
+        {
+          "path": "images/photos/xishuangbanna/001.jpg",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "path": "images/photos/xishuangbanna/002.jpg",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "path": "images/photos/xishuangbanna/003.jpg",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "path": "images/photos/xishuangbanna/004.jpg",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "path": "images/photos/xishuangbanna/005.jpg",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "path": "images/photos/xishuangbanna/006.jpg",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "path": "images/photos/xishuangbanna/007.jpg",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "path": "images/photos/xishuangbanna/008.jpg",
+          "width": 4000,
+          "height": 6000
+        }
+      ],
+      "emphasis": false
+    },
+    {
+      "name": "certificate",
+      "title": "我们领证啦",
+      "photos": [
+        {
+          "path": "images/photos/certificate/001.jpg",
+          "width": 2488,
+          "height": 4416
+        },
+        {
+          "path": "images/photos/certificate/002.jpg",
+          "width": 4416,
+          "height": 2488
+        },
+        {
+          "path": "images/photos/certificate/003.jpg",
+          "width": 2488,
+          "height": 4416
+        },
+        {
+          "path": "images/photos/certificate/004.jpg",
+          "width": 2488,
+          "height": 4416
+        },
+        {
+          "path": "images/photos/certificate/005.jpg",
+          "width": 4416,
+          "height": 2488
+        },
+        {
+          "path": "images/photos/certificate/006.jpg",
+          "width": 2488,
+          "height": 4416
+        },
+        {
+          "path": "images/photos/certificate/007.jpg",
+          "width": 2488,
+          "height": 4416
+        },
+        {
+          "path": "images/photos/certificate/008.jpg",
+          "width": 2488,
+          "height": 4416
+        },
+        {
+          "path": "images/photos/certificate/009.jpg",
+          "width": 4416,
+          "height": 2488
+        },
+        {
+          "path": "images/photos/certificate/010.jpg",
+          "width": 2488,
+          "height": 4416
+        },
+        {
+          "path": "images/photos/certificate/011.jpg",
+          "width": 2488,
+          "height": 4416
+        },
+        {
+          "path": "images/photos/certificate/012.jpg",
+          "width": 4416,
+          "height": 2488
+        }
+      ],
+      "emphasis": true
+    },
+    {
+      "name": "wedding_photo",
+      "title": "我们的婚纱照",
+      "photos": [
+        {
+          "path": "images/photos/wedding_photo/001.jpg",
+          "width": 5464,
+          "height": 8432
+        },
+        {
+          "path": "images/photos/wedding_photo/002.jpg",
+          "width": 5464,
+          "height": 8320
+        },
+        {
+          "path": "images/photos/wedding_photo/003.jpg",
+          "width": 5464,
+          "height": 8432
+        },
+        {
+          "path": "images/photos/wedding_photo/004.jpg",
+          "width": 8192,
+          "height": 5464
+        },
+        {
+          "path": "images/photos/wedding_photo/005.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/006.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/007.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/008.jpg",
+          "width": 5464,
+          "height": 8320
+        },
+        {
+          "path": "images/photos/wedding_photo/009.jpg",
+          "width": 8192,
+          "height": 5464
+        },
+        {
+          "path": "images/photos/wedding_photo/010.jpg",
+          "width": 5464,
+          "height": 8320
+        },
+        {
+          "path": "images/photos/wedding_photo/011.jpg",
+          "width": 5464,
+          "height": 8336
+        },
+        {
+          "path": "images/photos/wedding_photo/012.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/013.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/014.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/015.jpg",
+          "width": 5464,
+          "height": 8288
+        },
+        {
+          "path": "images/photos/wedding_photo/016.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/017.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/018.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/019.jpg",
+          "width": 8192,
+          "height": 5464
+        },
+        {
+          "path": "images/photos/wedding_photo/020.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/021.jpg",
+          "width": 5464,
+          "height": 8336
+        },
+        {
+          "path": "images/photos/wedding_photo/022.jpg",
+          "width": 5464,
+          "height": 8320
+        },
+        {
+          "path": "images/photos/wedding_photo/023.jpg",
+          "width": 5464,
+          "height": 8336
+        },
+        {
+          "path": "images/photos/wedding_photo/024.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/025.jpg",
+          "width": 8192,
+          "height": 5464
+        },
+        {
+          "path": "images/photos/wedding_photo/026.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/027.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/028.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/029.jpg",
+          "width": 8192,
+          "height": 5464
+        },
+        {
+          "path": "images/photos/wedding_photo/030.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/031.jpg",
+          "width": 8192,
+          "height": 5464
+        },
+        {
+          "path": "images/photos/wedding_photo/032.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/033.jpg",
+          "width": 8192,
+          "height": 5464
+        },
+        {
+          "path": "images/photos/wedding_photo/034.jpg",
+          "width": 5464,
+          "height": 8300
+        },
+        {
+          "path": "images/photos/wedding_photo/035.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/036.jpg",
+          "width": 8192,
+          "height": 5464
+        },
+        {
+          "path": "images/photos/wedding_photo/037.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/038.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/039.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/040.jpg",
+          "width": 8192,
+          "height": 5464
+        },
+        {
+          "path": "images/photos/wedding_photo/041.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/042.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/043.jpg",
+          "width": 8192,
+          "height": 5464
+        },
+        {
+          "path": "images/photos/wedding_photo/044.jpg",
+          "width": 5464,
+          "height": 8336
+        },
+        {
+          "path": "images/photos/wedding_photo/045.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/046.jpg",
+          "width": 5464,
+          "height": 8368
+        },
+        {
+          "path": "images/photos/wedding_photo/047.jpg",
+          "width": 5464,
+          "height": 8192
+        },
+        {
+          "path": "images/photos/wedding_photo/048.jpg",
+          "width": 8192,
+          "height": 5464
+        }
+      ],
+      "emphasis": true
+    }
+  ],
+  "style": "warm-cinematic",
+  "ending": {
+    "names": "王礼安 & 谭盈",
+    "date": "2026.05.30",
+    "thanks": "感谢见证我们的爱情",
+    "summary": [
+      "从校园到远方，从山水到雨林",
+      "一路走来，每一个瞬间都是最美的风景",
+      "王礼安 & 谭盈，今天，我们结婚啦"
+    ]
+  },
+  "totalPhotos": 103
+}
