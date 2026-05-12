@@ -5,7 +5,6 @@ description: >
   使用 Remotion 一键生成婚礼回忆视频。支持 8 种画面布局、
   12 种动画、多种装饰特效和配色方案。
 metadata:
-  model: opus
   trigger_keywords:
     - 生成视频
     - 制作婚礼视频
