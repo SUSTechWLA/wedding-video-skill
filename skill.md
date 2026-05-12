@@ -4,8 +4,9 @@ description: >
   自动检测文件夹中的照片和音乐，通过交互式问答编排章节，
   使用 Remotion 一键生成婚礼回忆视频。支持 8 种画面布局、
   12 种动画、多种装饰特效和配色方案。
-trigger:
-  keywords:
+metadata:
+  model: opus
+  trigger_keywords:
     - 生成视频
     - 制作婚礼视频
     - 剪辑照片
@@ -13,26 +14,9 @@ trigger:
     - 生成婚礼视频
     - 照片做视频
     - 婚礼视频
-  autoDetect:
+  auto_detect:
     pattern: "工作目录下存在 >=2 个包含图片文件的子文件夹，且有 music 文件夹"
     check: "扫描 ./public/images/ 下子目录数量，统计含图片的目录；检查 ./public/music/ 是否存在"
-allowed-tools:
-  - Bash
-  - Read
-  - Write
-  - Edit
-  - Skill
-  - TaskCreate
-  - TaskUpdate
-  - TaskGet
-  - TaskList
-  - Agent
-  - AskUserQuestion
-  - WebFetch
-  - WebSearch
-  - mcp__ide__*
-  - mcp__plugin_playwright__*
-model: opus
 ---
 
 # 婚礼回忆视频自动剪辑 Skill
@@ -105,6 +89,18 @@ public/music/
 2. **自动检测触发**：当前工作目录下，`./public/images/` 中存在 ≥2 个包含图片文件的子目录，且 `./public/music/` 目录存在
 
 激活后，严格按以下阶段执行，不要跳过。
+
+## 可用工具
+
+执行过程中需要使用以下工具：
+
+- **Bash** — 扫描目录、运行 `npx tsc` 和 `npx remotion render` 命令
+- **Read / Write / Edit** — 读写 `photoManifest.json` 和源码文件
+- **Skill** — 调用 `superpowers:brainstorming`、`superpowers:writing-plans`、`superpowers:subagent-driven-development`、`superpowers:finishing-a-development-branch`
+- **TaskCreate / TaskUpdate / TaskGet / TaskList** — 任务追踪
+- **Agent** — 分发子代理执行独立任务
+- **AskUserQuestion** — Phase 2 交互式问答
+- **WebFetch / WebSearch** — 查阅 Remotion 文档
 
 ---
 
